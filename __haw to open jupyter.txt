@@ -1,0 +1,5 @@
+##  open cmd on dir
+##  pip install pandas   (if not installed)
+##  pip install jupyter   (if not installed)
+>>  jupyter notebook   ## and its open http://localhost:8888/tree#notebooks
+ 
